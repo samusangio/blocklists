@@ -1,3 +1,10 @@
+#  Title: Online Games DNS Block List
+#  Entries:
+#  Updated: 03-31-2021
+#  Maintainer: samusangio
+#  Expires: 1 day (update frequency)
+#  Homepage: https://github.com/samusangio/blocklists
+#
 ||yyggames.com^
 ||bestgames.com^
 ||cargames.com^
